@@ -1,2 +1,2 @@
 # Learning-Applied-Math
-A Plan to teach yourself the course matter typically covered in a typical applied Mathematics Degree from MIT
+A Plan to teach yourself the course matter typically covered in a typical [Applied Mathematics Degree from MIT](http://math.mit.edu/academics/undergrad/major/course18/applied.php)
